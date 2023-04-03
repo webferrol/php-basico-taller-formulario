@@ -23,3 +23,6 @@ Pautas:
 
 ### Errores
 ![screenshot errors](./screenshots/screenshot-errors.png)
+
+## Challenge 
+[Retos](./challenge.md)

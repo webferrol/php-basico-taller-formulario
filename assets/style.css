@@ -1,0 +1,36 @@
+:root {
+  font-family: system-ui, sans-serif;
+}
+
+
+.title {
+  margin: 0;
+}
+
+.body {
+  display: grid;
+  place-content: center;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  min-height: 100vh;
+}
+
+
+.container {
+  min-width: 320px;
+  padding: 1rem;  
+  border: 2px solid black;
+  border-radius: 1rem;
+}
+
+.error {
+  display: block;
+}
+
+
+@media (prefers-color-scheme: dark) {
+   .container {
+    border-color: white;
+   }
+}

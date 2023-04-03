@@ -1,0 +1,4 @@
+- [] HTML y CSS
+  - [] favicon (heroicons), water.css
+  - [] Etiquetas semánticas, controles de formulario
+  - [] Retoques css
