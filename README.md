@@ -22,4 +22,4 @@ Pautas:
 ![dark mode](./screenshots/Screenshot-dark-mode.png)
 
 ### Errores
-![screenshot errors](./screenshots/Screenshot-errors.png)
+![screenshot errors](./screenshots/screenshot-errors.png)
